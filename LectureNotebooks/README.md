@@ -1,0 +1,1 @@
+In this directory you will find all of the key lecture material posted as Jupyter Notebooks.
