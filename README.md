@@ -21,4 +21,6 @@ Topics include (but are not limited to):
 •	Overfitting
 •	Dimensionality reduction
 
-Lectures will focus heavily on theory while lab portions of the course will use the R statistical language to provide hands on data analysis experience.  The goal of this class is to provide you with both the theoretical and practical knowledge for using modern data science tools in psychology research.  
+Lectures will focus heavily on theory while lab portions of the course will use the R statistical language to provide hands on data analysis experience.  The goal of this class is to provide you with both the theoretical and practical knowledge for using modern data science tools in psychology research. 
+
+:) 
