@@ -5,7 +5,7 @@ Data science has sometimes been referred to as “data poetry.” It is the art 
 Topics include (but are not limited to):
 <br>
 •	Github and version control
-•	Juypter notebooks & markdown files
+•	Juypter notebooks & markup files
 •	Data organization & archiving
 •	Data visualization
 •	Linear regression models
@@ -20,8 +20,8 @@ Topics include (but are not limited to):
 •	LASSO & Ridge regression
 •	Overfitting
 •	Dimensionality reduction
-• Decision trees
-• Support vector machines
-• Bayes factors
+•	Decision trees
+•	Support vector machines
+•	Bayes factors
 
 Lectures will focus heavily on theory while lab portions of the course will use the R statistical language to provide hands on data analysis experience.  The goal of this class is to provide you with both the theoretical and practical knowledge for using modern data science tools in psychology research. 
