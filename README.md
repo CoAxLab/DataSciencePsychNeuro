@@ -7,26 +7,26 @@ Topics include (but are not limited to):
 * Github and version control
 * Juypter notebooks & markdown files
 * Data organization & archiving
-•	Data visualization
-•	Linear regression models
-•	Data cleansing
-•	Reducible vs. irreducible error
-•	Logistic regression
-•	Linear/Quadratic discriminant analysis
-•	K-Nearest Neighbors
-•	Cross validation
-•	Bootstrapping
-•	Model selection
-•	LASSO & Ridge regression
-•	Overfitting
-•	Dimensionality reduction
-•	Decision trees
-•	Support vector machines
-•	Bayes factors
+* Data visualization
+* Linear regression models
+* Data cleansing
+* Reducible vs. irreducible error
+* Logistic regression
+* Linear/Quadratic discriminant analysis
+* K-Nearest Neighbors
+* Cross validation
+* Bootstrapping
+* Model selection
+* LASSO & Ridge regression
+* Overfitting
+* Dimensionality reduction
+* Decision trees
+* Bagging \& boosting
+* Bayes factors
 
 Lectures will focus heavily on theory while lab portions of the course will use the R statistical language to provide hands on data analysis experience.  The goal of this class is to provide you with both the theoretical and practical knowledge for using modern data science tools in psychology research. 
 
-Schedule:
+**Schedule:**
 
 | Week | Class Date | Topic                                                           | Reading                                |
 |------|------------|-----------------------------------------------------------------|----------------------------------------|
