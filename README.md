@@ -4,9 +4,9 @@ Data science has sometimes been referred to as “data poetry.” It is the art 
 
 Topics include (but are not limited to):
 <br>
-•	Github and version control
-•	Juypter notebooks & markdown files
-•	Data organization & archiving
+* Github and version control
+* Juypter notebooks & markdown files
+* Data organization & archiving
 •	Data visualization
 •	Linear regression models
 •	Data cleansing
