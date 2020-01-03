@@ -31,8 +31,8 @@ Lectures will focus heavily on theory while lab portions of the course will use 
 | Week | Class Date | Topic                                                           | Reading                                |
 |------|------------|-----------------------------------------------------------------|----------------------------------------|
 | 1    | 1/14/2020  | The art of "data poetry"                                        |
-| 1    | 1/14/2020  | Recitation 1: Git, Github, R/Rstudio & Jupyter notebooks        |
-| 1    | 1/16/2020  | Data as objects & architectures                                 | Wickham 2014, Gorgolewski et al\. 2016 |
+| **1    | 1/14/2020  | Recitation 1: Git, Github, R/Rstudio & Jupyter notebooks        |
+| 1    | 1/16/2020  | Data as objects & architectures                                 | Wickham 2014, Gorgolewski et al\. 2016** |
 | 2    | 1/21/2020  | Coming up with a data plan                                      |
 | 2    | 1/21/2020  | Recitation 2: Model objects in R, TidyData \(dplyr and tidyr\)  |
 | 2    | 1/23/2020  | Seeing is believing on planet data                              | Tufte Chapter 1                        |
