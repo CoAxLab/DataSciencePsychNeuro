@@ -1,4 +1,4 @@
-## Data Science for Psychology & Neuroscience (CMU-85732, Spring 2019)
+## Data Science for Psychology & Neuroscience (CMU-85732, Spring 2020)
 
 Data science has sometimes been referred to as “data poetry.” It is the art of finding the story that your data tells and clearly conveying that story to others.  This class will cover topics in machine learning and statistics necessary for applied research in modern psychology and neuroscience. Emphasis will be placed on fundamental data science theory that can support learning more complex analytical methods, as well as basic applied skills for performing data analysis in a research context.
 
