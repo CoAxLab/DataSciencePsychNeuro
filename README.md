@@ -49,10 +49,10 @@ Lectures will focus heavily on theory while lab portions of the course will use 
 | 5    | 2/11/2020  | Recitation 5: Review of basic calculus                          |
 | 5    | 2/13/2020  | Uses & pitfalls of linear regression                            | James et al\.  Chapter 3               |
 | 6    | 2/18/2020  | Curves as linear models                                         | James et al\.  Chapter 3               |
-| 6    | 2/18/2020  | Recitation 6: Modeling continuous data \(Lab 1\)                | James et al\.  Chapter 3               |
+| 6    | 2/18/2020  | Recitation 6: Modeling continuous data                          | James et al\.  Chapter 3               |
 | 6    | 2/20/2020  | Mixed effects models                                            | Bates Chapter 1, Yarkoni 2019          |
 | 7    | 2/25/2020  | Classifiers                                                     | James et al\.  Chapter 4               |
-| 7    | 2/25/2020  | Recitation 7: Modeling categorical data \(Lab 2\)               | James et al\. Chapter 4                |
+| 7    | 2/25/2020  | Recitation 7: Modeling categorical data                         | James et al\. Chapter 4                |
 | 7    | 2/27/2020  | The beauty of KNN                                               | James et al\.  Chapters 2 & 4          |
 | 8    | 3/3/2020   | Cross\-Validation                                               | James et al\.  Chapter 5               |
 | 8    | 3/3/2020   | Recitation 8: Cross validation                                  |
@@ -60,16 +60,16 @@ Lectures will focus heavily on theory while lab portions of the course will use 
 | 9    | 3/10/2020  | Spring Break \(no classes\)                                     |
 | 9    | 3/12/2020  | Spring Break \(no classes\)                                     |
 | 10   | 3/17/2020  | Mediation, moderation, & graphs                                 | Preacher & Hayes 2008                  |
-| 10   | 3/17/2020  | Recitation 9: Boostrapping & Permutation tests \(Lab 3\)        | James et al\. Chapter 5                |
+| 10   | 3/17/2020  | Recitation 9: Boostrapping & Permutation tests                  | James et al\. Chapter 5                |
 | 10   | 3/19/2020  | Finding the "Best" Model                                        | James et al\.  Chapter 6               |
 | 11   | 3/24/2020  | Shrinkage Models                                                | James et al\.  Chapter 6               |
-| 11   | 3/24/2020  | Recitation 10: Model selection & Regularization \(Lab 4\)       | James et al\.  Chapter 6               |
+| 11   | 3/24/2020  | Recitation 10: power analyses by simulation.                    | 
 | 11   | 3/26/2020  | Dimensionality Reduction                                        | James et al\.  Chapter 6               |
 | 12   | 3/31/2020  | Regression & Classification Trees                               | James et al\.  Chapter 8               |
-| 12   | 3/31/2020  | Recitation 11: Random Forests \(classification and regression\) | James et al\.  Chapter 8               |
+| 12   | 3/31/2020  | Recitation 11: Model selection & Regularization                 | James et al\.  Chapter 8               |
 | 12   | 4/2/2020   | Bagging, Random Forests, and Boosting                           | James et al\. Chapter 8                |
 | 13   | 4/7/2020   | Reconsidering the p\-value                                      | Wasserstein et al\. 2019               |
-| 13   | 4/7/2020   | Recitation 12: power analyses by simulation                     |
+| 13   | 4/7/2020   | Recitation 12: Random Forests \(classification and regression\) | James et al\. Chapter 8  
 | 14   | 4/9/2020   | Bayes factor: Accepting the null                                | Wagenmaker 2007                        |
 | 14   | 4/14/2020  | Presenting your data poem                                       | Mensh & Kording 2017                   |
 | 14   | 4/14/2020  | Recitation 13: Bayes factors in practice                        |
