@@ -27,7 +27,7 @@ Topics include (but are not limited to):
 * Bagging \& boosting
 * Bayes factors
 
-Lectures will focus heavily on theory while lab portions of the course will use the R statistical language to provide hands on data analysis experience.  The goal of this class is to provide you with both the theoretical and practical knowledge for using modern data science tools in psychology research. 
+Lectures will focus heavily on theory while lab portions of the course will use the R statistical language to provide hands on data analysis experience.  The goal of this class is to provide you with both the theoretical and practical knowledge for using modern data science tools in psychology research.
 
 **Schedule:**
 
@@ -63,16 +63,17 @@ Lectures will focus heavily on theory while lab portions of the course will use 
 | 10   | 3/17/2020  | Recitation 9: Boostrapping & Permutation tests                  | James et al\. Chapter 5                |
 | 10   | 3/19/2020  | Finding the "Best" Model                                        | James et al\.  Chapter 6               |
 | 11   | 3/24/2020  | Shrinkage Models                                                | James et al\.  Chapter 6               |
-| 11   | 3/24/2020  | Recitation 10: power analyses by simulation.                    | 
+| 11   | 3/24/2020  | Recitation 10: power analyses by simulation.                    |
 | 11   | 3/26/2020  | Dimensionality Reduction                                        | James et al\.  Chapter 6               |
-| 12   | 3/31/2020  | Regression & Classification Trees                               | James et al\.  Chapter 8               |
+| 12   | 3/31/2020  | Feature hacking                                                 | James et al\.  Chapter 5               |
 | 12   | 3/31/2020  | Recitation 11: Model selection & Regularization                 | James et al\.  Chapter 8               |
-| 12   | 4/2/2020   | Bagging, Random Forests, and Boosting                           | James et al\. Chapter 8                |
-| 13   | 4/7/2020   | Reconsidering the p\-value                                      | Wasserstein et al\. 2019               |
+| 12   | 4/2/2020   | Regression & Classification Trees                               | James et al\.  Chapter 8               |
+| 12   | 4/7/2020   | Bagging, Random Forests, and Boosting                           | James et al\. Chapter 8                |
 | 13   | 4/7/2020   | Recitation 12: Random Forests \(classification and regression\) | James et al\. Chapter 8  
-| 14   | 4/9/2020   | Bayes factor: Accepting the null                                | Wagenmaker 2007                        |
-| 14   | 4/14/2020  | Presenting your data poem                                       | Mensh & Kording 2017                   |
+| 13   | 4/9/2020   | Reconsidering the p\-value                                      | Wasserstein et al\. 2019               |
+| 14   | 4/14/2020  | Bayes factor: Accepting the null                                | Wagenmaker 2007                        |
 | 14   | 4/14/2020  | Recitation 13: Bayes factors in practice                        |
+| 14   | 4/14/2020  | Presenting your data poem                                       | Mensh & Kording 2017                   |
 | 15   | 4/16/2020  | Spring Carnival \(no class\)                                    |
 | 15   | 4/21/2020  | Project presentations: Day 1                                    |
 | 16   | 4/23/2020  | Project presentations: Day 2                                    |
