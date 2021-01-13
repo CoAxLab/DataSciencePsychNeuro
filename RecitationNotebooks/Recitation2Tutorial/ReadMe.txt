@@ -1,2 +1,0 @@
-This folder contains the tutorial that we went through during the recitation. This is slightly different than the recitation notebook but the functions are more or less the same--you are just working on a different dataset. The idea is to get you to have as much practice as possible. 
-The R code, presentation slides and the dataset are all included here. 
