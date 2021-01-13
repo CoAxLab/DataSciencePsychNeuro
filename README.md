@@ -18,4 +18,6 @@ The associated folders are:
 
 * **Readings**: PDFs of all readings can be found here. Items that are not in the public domain will be on Canvas.
 
+* **Slides**: PDFs of all lecture slides can be found here.
+
 * **Tutorials**: Jupyter notebook tutorials that supplement each lecture can be found here.
