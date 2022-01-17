@@ -10,7 +10,7 @@ https://coaxlab.github.io/Data-Explorations/intro.html
 
 The lectures can also be found on this YouTube playlist:
 
-https://youtu.be/_6VmV5NKrRQ
+https://www.youtube.com/watch?v=_6VmV5NKrRQ&list=PLFSpcUejKXg3l5xJFhhDFfCrBxhwifRRH
 
 Check here regularly for updates.
 
