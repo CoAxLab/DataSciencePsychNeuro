@@ -12,6 +12,10 @@ The lectures can also be found on this YouTube playlist:
 
 https://www.youtube.com/watch?v=_6VmV5NKrRQ&list=PLFSpcUejKXg3l5xJFhhDFfCrBxhwifRRH
 
+Answers to discussion questions can be submitted here:
+
+https://forms.gle/cJAURHdUAC6qsG4w6
+
 Check here regularly for updates.
 
 The associated folders are:
