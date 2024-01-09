@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=_6VmV5NKrRQ&list=PLFSpcUejKXg3l5xJFhhDFfCrBxhwif
 
 Answers to discussion questions can be submitted here:
 
-https://forms.gle/MDVSvHM5MrcQaNfh8
+https://forms.gle/P4jkEwnFDPvNoigY9
 
 Check here regularly for updates.
 
