@@ -1,4 +1,4 @@
-## Data Science for Psychology & Neuroscience (CMU 85-432 & 85-732, Spring 2021)
+## Data Science for Psychology & Neuroscience (CMU 85-432 & 85-732, Spring 2025)
 
 This is the official repository of the CMU class Data Science for Psychology and Neuroscience.
 
