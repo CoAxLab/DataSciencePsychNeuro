@@ -1,4 +1,4 @@
-## Data Science for Psychology & Neuroscience (CMU 85-432 & 85-732, Spring 2025)
+## Data Science for Psychology & Neuroscience (CMU 85-432 & 85-732, Spring 2026)
 
 This is the official repository of the CMU class Data Science for Psychology and Neuroscience.
 
@@ -20,7 +20,7 @@ Check here regularly for updates.
 
 The associated folders are:
 
-* **Homeworks**: Jupyter notebooks for the homework assignments will be posted here.
+* **Exercises**: Jupyter notebooks for the exercises will be posted here.
 
 * **Primers**: A collection of primers on basic statistics that students are assumed to know will be placed here.
 
